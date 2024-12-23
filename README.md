@@ -1,2 +1,2 @@
-# javascript.new
-code repo for java script series
+# Javascript
+code repo for learning java script 
